@@ -1,4 +1,4 @@
-# How to install the wazuh agen in opensuse microos
+# How to install the wazuh agent in opensuse MicroOs
 
 Opensuse MicroOs has a read only root and works with snaphot.
 Wahu agent installs itself in /var/ossec. /opt/ossec would be better and more conforming to file location standards in linux.
